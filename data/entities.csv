@@ -1,0 +1,137 @@
+NUTS Level,NUTS1,NUTS2,NUTS3,Type,Formal type,Label,Capital,Abbreviation
+3,ITC,ITC1,ITC11,Città metropolitana,Città metropolitana,Torino,,TO
+3,ITC,ITC1,ITC12,Provincia,Provincia,Vercelli,,VC
+3,ITC,ITC1,ITC15,Provincia,Provincia,Novara,,NO
+3,ITC,ITC1,ITC16,Provincia,Provincia,Cuneo,,CN
+3,ITC,ITC1,ITC17,Provincia,Provincia,Asti,,AT
+3,ITC,ITC1,ITC18,Provincia,Provincia,Alessandria,,AL
+3,ITC,ITC1,ITC13,Provincia,Provincia,Biella,,BI
+3,ITC,ITC1,ITC14,Provincia,Provincia,Verbano-Cusio-Ossola,Verbania,VB
+3,ITC,ITC2,ITC20,Provincia,Provincia,Valle d'Aosta,,AO
+3,ITC,ITC4,ITC41,Provincia,Provincia,Varese,,VA
+3,ITC,ITC4,ITC42,Provincia,Provincia,Como,,CO
+3,ITC,ITC4,ITC44,Provincia,Provincia,Sondrio,,SO
+3,ITC,ITC4,ITC4C,Città metropolitana,Città metropolitana,Milano,,MI
+3,ITC,ITC4,ITC46,Provincia,Provincia,Bergamo,,BG
+3,ITC,ITC4,ITC47,Provincia,Provincia,Brescia,,BS
+3,ITC,ITC4,ITC48,Provincia,Provincia,Pavia,,PV
+3,ITC,ITC4,ITC4A,Provincia,Provincia,Cremona,,CR
+3,ITC,ITC4,ITC4B,Provincia,Provincia,Mantova,,MN
+3,ITC,ITC4,ITC43,Provincia,Provincia,Lecco,,LC
+3,ITC,ITC4,ITC49,Provincia,Provincia,Lodi,,LO
+3,ITC,ITC4,ITC4D,Provincia,Provincia,Monza e della Brianza,Monza,MB
+3,ITH,ITH1,ITH10,Provincia autonoma,Provincia autonoma,Bolzano,,BZ
+3,ITH,ITH2,ITH20,Provincia autonoma,Provincia autonoma,Trento,,TN
+3,ITH,ITH3,ITH31,Provincia,Provincia,Verona,,VR
+3,ITH,ITH3,ITH32,Provincia,Provincia,Vicenza,,VI
+3,ITH,ITH3,ITH33,Provincia,Provincia,Belluno,,BL
+3,ITH,ITH3,ITH34,Provincia,Provincia,Treviso,,TV
+3,ITH,ITH3,ITH35,Città metropolitana,Città metropolitana,Venezia,,VE
+3,ITH,ITH3,ITH36,Provincia,Provincia,Padova,,PD
+3,ITH,ITH3,ITH37,Provincia,Provincia,Rovigo,,RO
+3,ITH,ITH4,ITH42,Provincia,Unità non amministrativa,Udine,,UD
+3,ITH,ITH4,ITH43,Provincia,Unità non amministrativa,Gorizia,,GO
+3,ITH,ITH4,ITH44,Provincia,Unità non amministrativa,Trieste,,TS
+3,ITH,ITH4,ITH41,Provincia,Unità non amministrativa,Pordenone,,PN
+3,ITC,ITC3,ITC31,Provincia,Provincia,Imperia,,IM
+3,ITC,ITC3,ITC32,Provincia,Provincia,Savona,,SV
+3,ITC,ITC3,ITC33,Città metropolitana,Città metropolitana,Genova,,GE
+3,ITC,ITC3,ITC34,Provincia,Provincia,La Spezia,,SP
+3,ITH,ITH5,ITH51,Provincia,Provincia,Piacenza,,PC
+3,ITH,ITH5,ITH52,Provincia,Provincia,Parma,,PR
+3,ITH,ITH5,ITH53,Provincia,Provincia,Reggio nell'Emilia,,RE
+3,ITH,ITH5,ITH54,Provincia,Provincia,Modena,,MO
+3,ITH,ITH5,ITH55,Città metropolitana,Città metropolitana,Bologna,,BO
+3,ITH,ITH5,ITH56,Provincia,Provincia,Ferrara,,FE
+3,ITH,ITH5,ITH57,Provincia,Provincia,Ravenna,,RA
+3,ITH,ITH5,ITH58,Provincia,Provincia,Forlì-Cesena,,FC
+3,ITH,ITH5,ITH59,Provincia,Provincia,Rimini,,RN
+3,ITI,ITI1,ITI11,Provincia,Provincia,Massa-Carrara,,MS
+3,ITI,ITI1,ITI12,Provincia,Provincia,Lucca,,LU
+3,ITI,ITI1,ITI13,Provincia,Provincia,Pistoia,,PT
+3,ITI,ITI1,ITI14,Città metropolitana,Città metropolitana,Firenze,,FI
+3,ITI,ITI1,ITI16,Provincia,Provincia,Livorno,,LI
+3,ITI,ITI1,ITI17,Provincia,Provincia,Pisa,,PI
+3,ITI,ITI1,ITI18,Provincia,Provincia,Arezzo,,AR
+3,ITI,ITI1,ITI19,Provincia,Provincia,Siena,,SI
+3,ITI,ITI1,ITI1A,Provincia,Provincia,Grosseto,,GR
+3,ITI,ITI1,ITI15,Provincia,Provincia,Prato,,PO
+3,ITI,ITI2,ITI21,Provincia,Provincia,Perugia,,PG
+3,ITI,ITI2,ITI22,Provincia,Provincia,Terni,,TR
+3,ITI,ITI3,ITI31,Provincia,Provincia,Pesaro e Urbino,,PU
+3,ITI,ITI3,ITI32,Provincia,Provincia,Ancona,,AN
+3,ITI,ITI3,ITI33,Provincia,Provincia,Macerata,,MC
+3,ITI,ITI3,ITI34,Provincia,Provincia,Ascoli Piceno,,AP
+3,ITI,ITI3,ITI35,Provincia,Provincia,Fermo,,FM
+3,ITI,ITI4,ITI41,Provincia,Provincia,Viterbo,,VT
+3,ITI,ITI4,ITI42,Provincia,Provincia,Rieti,,RI
+3,ITI,ITI4,ITI43,Città metropolitana,Città metropolitana,Roma,,RM
+3,ITI,ITI4,ITI44,Provincia,Provincia,Latina,,LT
+3,ITI,ITI4,ITI45,Provincia,Provincia,Frosinone,,FR
+3,ITF,ITF1,ITF11,Provincia,Provincia,L'Aquila,,AQ
+3,ITF,ITF1,ITF12,Provincia,Provincia,Teramo,,TE
+3,ITF,ITF1,ITF13,Provincia,Provincia,Pescara,,PE
+3,ITF,ITF1,ITF14,Provincia,Provincia,Chieti,,CH
+3,ITF,ITF2,ITF22,Provincia,Provincia,Campobasso,,CB
+3,ITF,ITF2,ITF21,Provincia,Provincia,Isernia,,IS
+3,ITF,ITF3,ITF31,Provincia,Provincia,Caserta,,CE
+3,ITF,ITF3,ITF32,Provincia,Provincia,Benevento,,BN
+3,ITF,ITF3,ITF33,Città metropolitana,Città metropolitana,Napoli,,NA
+3,ITF,ITF3,ITF34,Provincia,Provincia,Avellino,,AV
+3,ITF,ITF3,ITF35,Provincia,Provincia,Salerno,,SA
+3,ITF,ITF4,ITF46,Provincia,Provincia,Foggia,,FG
+3,ITF,ITF4,ITF47,Città metropolitana,Città metropolitana,Bari,,BA
+3,ITF,ITF4,ITF43,Provincia,Provincia,Taranto,,TA
+3,ITF,ITF4,ITF44,Provincia,Provincia,Brindisi,,BR
+3,ITF,ITF4,ITF45,Provincia,Provincia,Lecce,,LE
+3,ITF,ITF4,ITF48,Provincia,Provincia,Barletta-Andria-Trani,,BT
+3,ITF,ITF5,ITF51,Provincia,Provincia,Potenza,,PZ
+3,ITF,ITF5,ITF52,Provincia,Provincia,Matera,,MT
+3,ITF,ITF6,ITF61,Provincia,Provincia,Cosenza,,CS
+3,ITF,ITF6,ITF63,Provincia,Provincia,Catanzaro,,CZ
+3,ITF,ITF6,ITF65,Città metropolitana,Città metropolitana,Reggio Calabria,,RC
+3,ITF,ITF6,ITF62,Provincia,Provincia,Crotone,,KR
+3,ITF,ITF6,ITF64,Provincia,Provincia,Vibo Valentia,,VV
+3,ITG,ITG1,ITG11,Provincia,Libero consorzio di comuni,Trapani,,TP
+3,ITG,ITG1,ITG12,Città metropolitana,Città metropolitana,Palermo,,PA
+3,ITG,ITG1,ITG13,Città metropolitana,Città metropolitana,Messina,,ME
+3,ITG,ITG1,ITG14,Provincia,Libero consorzio di comuni,Agrigento,,AG
+3,ITG,ITG1,ITG15,Provincia,Libero consorzio di comuni,Caltanissetta,,CL
+3,ITG,ITG1,ITG16,Provincia,Libero consorzio di comuni,Enna,,EN
+3,ITG,ITG1,ITG17,Città metropolitana,Città metropolitana,Catania,,CT
+3,ITG,ITG1,ITG18,Provincia,Libero consorzio di comuni,Ragusa,,RG
+3,ITG,ITG1,ITG19,Provincia,Libero consorzio di comuni,Siracusa,,SR
+3,ITG,ITG2,ITG2D,Provincia,Provincia,Sassari,,SS
+3,ITG,ITG2,ITG2E,Provincia,Provincia,Nuoro,,NU
+3,ITG,ITG2,ITG2F,Città metropolitana,Città metropolitana,Cagliari,,CA
+3,ITG,ITG2,ITG2G,Provincia,Provincia,Oristano,,OR
+3,ITG,ITG2,,Provincia soppressa,Provincia soppressa,Olbia-Tempio,,OT
+3,ITG,ITG2,,Provincia soppressa,Provincia soppressa,Ogliastra,,OG
+3,ITG,ITG2,,Provincia soppressa,Provincia soppressa,Medio Campidano,,VS
+3,ITG,ITG2,,Provincia soppressa,Provincia soppressa,Carbonia-Iglesias,,CI
+3,ITG,ITG2,ITG2H,Provincia,Provincia,Sud Sardegna,Carbonia,SU
+1,ITC,,,Area sovra-regionale,Area sovra-regionale,Nord-Ovest,,
+2,ITC,ITC1,,Regione,Regione,Piemonte,Torino,
+2,ITC,ITC2,,Regione,Regione,Valle d’Aosta,Aosta,
+2,ITC,ITC3,,Regione,Regione,Liguria,Genova,
+2,ITC,ITC4,,Regione,Regione,Lombardia,Milano,
+1,ITF,,,Area sovra-regionale,Area sovra-regionale,Sud,,
+2,ITF,ITF1,,Regione,Regione,Abruzzo,L’Aquila,
+2,ITF,ITF2,,Regione,Regione,Molise,Campobasso,
+2,ITF,ITF3,,Regione,Regione,Campania,Napoli,
+2,ITF,ITF4,,Regione,Regione,Puglia,Bari,
+2,ITF,ITF5,,Regione,Regione,Basilicata,Potenza,
+2,ITF,ITF6,,Regione,Regione,Calabria,Catanzaro,
+1,ITG,,,Area sovra-regionale,Area sovra-regionale,Isole,,
+2,ITG,ITG1,,Regione,Regione,Sicilia,Palermo,
+2,ITG,ITG2,,Regione,Regione,Sardegna,Cagliari,
+1,ITH,,,Area sovra-regionale,Area sovra-regionale,Nord-Est,,
+2,ITH,ITH3,,Regione,Regione,Veneto,Venezia,
+2,ITH,ITH4,,Regione,Regione,Friuli-Venezia Giulia,Trieste,
+2,ITH,ITH5,,Regione,Regione,Emilia-Romagna,Bologna,
+1,ITI,,,Area sovra-regionale,Area sovra-regionale,Centro,,
+2,ITI,ITI1,,Regione,Regione,Toscana,Firenze,
+2,ITI,ITI2,,Regione,Regione,Umbria,Perugia,
+2,ITI,ITI3,,Regione,Regione,Marche,Ancona,
+2,ITI,ITI4,,Regione,Regione,Lazio,Roma,
+0,IT,,,Stato,Stato,Italia,Roma,
