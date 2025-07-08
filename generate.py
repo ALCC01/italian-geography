@@ -217,6 +217,7 @@ if __name__ == "__main__":
     buildinfo["media"] = len(media_files)
 
     # Write package and build info to disk
+    os.makedirs(BUILD_DIR, exist_ok=True)
     package.write_to_file(os.path.join(BUILD_DIR, "itgeo.apkg"))
     json.dump(buildinfo, open(os.path.join(BUILD_DIR, "buildinfo.json"), "w"))
     logging.info(f"Wrote package to {os.path.join(BUILD_DIR, 'itgeo.apkg')}")
