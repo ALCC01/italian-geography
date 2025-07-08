@@ -131,7 +131,11 @@ if __name__ == "__main__":
     buildinfo["nuts2"] = len(entities[entities["NUTS Level"] == 2])
     buildinfo["nuts3"] = len(entities[entities["NUTS Level"] == 3])
 
-    deck = genanki.Deck(DECK_ID, "Geografia d'Italia")
+    deck = genanki.Deck(
+        DECK_ID,
+        "Geografia d'Italia",
+        "🇮🇹🇪🇺 Deck about Italy's geography. \n\nInformation and issues: https://github.com/ALCC01/italian-geography",
+    )
 
     # Define the Anki note model for political/administrative entities
     entity_model = genanki.Model(
