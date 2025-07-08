@@ -7,7 +7,6 @@ NUTS Level,NUTS1,NUTS2,NUTS3,Type,Formal type,Label,Capital,Abbreviation
 3,ITC,ITC1,ITC18,Provincia,Provincia,Alessandria,,AL
 3,ITC,ITC1,ITC13,Provincia,Provincia,Biella,,BI
 3,ITC,ITC1,ITC14,Provincia,Provincia,Verbano-Cusio-Ossola,Verbania,VB
-3,ITC,ITC2,ITC20,Provincia,Provincia,Valle d'Aosta,,AO
 3,ITC,ITC4,ITC41,Provincia,Provincia,Varese,,VA
 3,ITC,ITC4,ITC42,Provincia,Provincia,Como,,CO
 3,ITC,ITC4,ITC44,Provincia,Provincia,Sondrio,,SO
@@ -112,7 +111,7 @@ NUTS Level,NUTS1,NUTS2,NUTS3,Type,Formal type,Label,Capital,Abbreviation
 3,ITG,ITG2,ITG2H,Provincia,Provincia,Sud Sardegna,Carbonia,SU
 1,ITC,,,Area sovra-regionale,Area sovra-regionale,Nord-Ovest,,
 2,ITC,ITC1,,Regione,Regione,Piemonte,Torino,
-2,ITC,ITC2,,Regione,Regione,Valle d’Aosta,Aosta,
+2,ITC,ITC2,,Regione,Regione,Valle d’Aosta,Aosta,AO
 2,ITC,ITC3,,Regione,Regione,Liguria,Genova,
 2,ITC,ITC4,,Regione,Regione,Lombardia,Milano,
 1,ITF,,,Area sovra-regionale,Area sovra-regionale,Sud,,
